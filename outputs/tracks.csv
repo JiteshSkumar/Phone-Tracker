@@ -1,0 +1,6 @@
+video,track_id,type,total_frames_for_track,active_frames_for_track,idle_frames_for_track,active_ratio_for_track
+20250715_142638_e37e7821.mp4,3,phone,3,3,0,1.0
+20250715_144536_9170ec05.mp4,4,phone,31,31,0,1.0
+20250715_173316_8cb090ab.mp4,5,phone,27,0,27,0.0
+20250718_145802_46039155.mp4,6,phone,173,0,173,0.0
+20250718_145802_46039155.mp4,8,phone,133,133,0,1.0
