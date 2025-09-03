@@ -29,5 +29,5 @@ It uses **YOLOv8** for object detection, **OpenCLIP** to distinguish phones from
 
 ## 📂 Project Structure 
 phone-tracker/
-│── Phone_Tracker.ipynb # Main notebook
-│── README.md # Project documentation
+\\│── Phone_Tracker.ipynb # Main notebook
+\\│── README.md # Project documentation
